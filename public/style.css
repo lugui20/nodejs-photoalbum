@@ -1,0 +1,21 @@
+body,h1,h2,h3,h4,h5 {
+  font-family: "Roboto", sans-serif;                      
+  
+}
+h1 {
+  font-weight: 800;
+  color: #222;
+}
+.w3-third img{border-bottom: 12px solid #555; margin-bottom: -12px; opacity: 0.75; cursor: pointer}
+.w3-third img:hover{border-bottom: 12px solid #222; opacity: 1}
+
+div.photopanel {
+  background-color: #AAA;
+  padding: 64px 128px 64px 128px;
+}
+
+div.description {
+  background-color: #222;
+  padding: 32px 128px 64px 128px;                   
+  color: white;
+}
